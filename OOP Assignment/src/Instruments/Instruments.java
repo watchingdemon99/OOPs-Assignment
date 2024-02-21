@@ -1,7 +1,7 @@
 package Instruments;
 
  abstract class Instrument{
-    void play(){
+    void abstract play(){
 
     }
 }
