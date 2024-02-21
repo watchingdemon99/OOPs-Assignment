@@ -1,9 +1,7 @@
 package Instruments;
 
  abstract class Instrument{
-    void abstract play(){
-
-    }
+    void abstract play();
 }
 
  class Piano extends Instrument{
